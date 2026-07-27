@@ -11,6 +11,7 @@
 | [0595-big-countries](https://github.com/manishkumar7394/leetcode-sql/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/manishkumar7394/leetcode-sql/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/manishkumar7394/leetcode-sql/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/manishkumar7394/leetcode-sql/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/manishkumar7394/leetcode-sql/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/manishkumar7394/leetcode-sql/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/manishkumar7394/leetcode-sql/tree/master/1193-monthly-transactions-i) |
